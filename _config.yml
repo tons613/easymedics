@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: [The title of your site]
 description: [A short description of your site's purpose]
 layout: default
-show_downloads: "true"
+show_downloads: true
