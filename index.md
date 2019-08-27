@@ -45,7 +45,7 @@
   -->
   </STYLE>
   <SCRIPT LANGUAGE="JavaScript">
-
+  <!--
   runtimeVersion = "4.0.0";
   checkClient = false;
   directLink = "EasyMedics.application";
@@ -104,7 +104,7 @@
     }
     return 0;
   }
-  
+  -->
   </SCRIPT>
   </HEAD>
     <BODY ONLOAD="Initialize()">
