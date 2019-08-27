@@ -1,1 +1,2 @@
-# easymedics_lab_install
+# easymedics
+Application installer of easymedics
