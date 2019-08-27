@@ -3,3 +3,6 @@ title: EasyMedics Lab
 description: A medical records managemnt system
 layout: default
 show_downloads: true
+github:
+  zip_url: setup.exe
+  another_url: another value
